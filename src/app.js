@@ -5,7 +5,7 @@
 // Batting Order App by John Phillips on 6/29/2020
 
 const teamArray = [
-  { name: 'Ann', order: 1, image: 'images/girl1.jpg' },
+  { name: 'Anne', order: 1, image: 'images/girl1.jpg' },
   { name: 'Barb', order: 2, image: 'images/girl2.jpg' },
   { name: 'Carie', order: 3, image: 'images/girl3.jpg' },
   { name: 'Diana', order: 4, image: 'images/girl4.jpg' },
